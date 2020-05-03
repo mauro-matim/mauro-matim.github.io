@@ -1,0 +1,16 @@
+body {
+	font-family: "arial";
+	margin: 50px;
+	background-color: #B4C8B9;
+}
+
+p {
+	font-size: large;
+	padding: 20px;
+}
+
+#navigation{
+	padding: 50px;
+	background: #ffffff80;
+	border-radius:10px;
+}
