@@ -1,11 +1,12 @@
 body {
 	font-family: "arial";
 	margin: 50px;
-	background-color: rgb(146, 78, 104);
+	background-color: rgb(118, 187, 175);
 }
 
 p {
 	font-size: large;
+	text-align: center;
 	padding: 20px;
 }
 
